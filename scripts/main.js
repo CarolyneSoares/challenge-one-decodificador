@@ -40,7 +40,7 @@ let opcao = "";
 
 
   function copiarTexto() {
-    let textoCopiado = document.getElementById("resultado");
+    let textoCopiado = document.getElementById("resultado").value;
     navigator.clipboard.writeText (textoCopiado);
-    alert("O texto copiado é: " + textoCopiado.value);
+    alert("O texto copiado é: " + textoCopiado);
   }
