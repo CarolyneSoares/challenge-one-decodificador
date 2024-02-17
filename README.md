@@ -1,4 +1,4 @@
-Bem-vindo a este projeto que eu fiz no Curso da Oracle One em parceria com Alura. Projeto consiste em criptografar e descriptografar texto. 
+Bem-vindo a este projeto que eu fiz no Curso da Oracle One em parceria com Alura. O projeto consiste em criptografar e descriptografar texto. 
 
 A criptografia segue seguintes regras:
 
